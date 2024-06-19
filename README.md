@@ -1,6 +1,7 @@
 # dipl
 
 A new Flutter project.
+Mobile application for ordering services. Made in flutter for android. IOS support in development.
 
 ## Getting Started
 
